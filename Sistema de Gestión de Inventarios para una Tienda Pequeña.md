@@ -144,21 +144,8 @@ inventario = [
 3. Sweigart, A. (2019). *Automate the Boring Stuff with Python: Practical Programming for Total Beginners* (2nd ed.). No Starch Press.
 4. Downey, A. (2015). *Think Python: How to Think Like a Computer Scientist* (2nd ed.). O'Reilly Media.
 
-## 📄 Documentación Oficial
-
-Para más detalles sobre la implementación, consulta el documento oficial:
-- **A2_ADZ.pdf** - Reporte completo con análisis, código fuente y resultados de pruebas
-
 ## 👨‍💻 Autor
 
 **Donovan Adrian Zuñiga Enriquez**  
 Universidad del Valle de México (UVM)  
 Febrero de 2026
-
-## 📝 Licencia
-
-Este proyecto es de uso académico y está disponible bajo la licencia MIT.
-
----
-
-**Nota:** Este proyecto es parte del Proyecto Integrador de la asignatura "Lógica y Programación Estructurada" en la Universidad del Valle de México.
